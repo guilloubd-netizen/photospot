@@ -1,0 +1,20 @@
+{
+  "name": "PhotoSpot & Settings",
+  "short_name": "PhotoSpot",
+  "description": "Assistant photo terrain : météo en temps réel, spots locaux et réglages d'exposition optimaux.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%2309090b'/%3E%3Ccircle cx='256' cy='256' r='132' fill='none' stroke='%23f59e0b' stroke-width='24'/%3E%3Ccircle cx='256' cy='256' r='64' fill='%23f59e0b' fill-opacity='0.2' stroke='%23fbbf24' stroke-width='12'/%3E%3Ccircle cx='380' cy='132' r='16' fill='%23f59e0b'/%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
